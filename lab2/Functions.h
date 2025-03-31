@@ -4,6 +4,7 @@
 #include <locale.h>
 #include <vector>
 #include <string>
+
 struct QuadraticEquation {
     double a, b, c;
 
