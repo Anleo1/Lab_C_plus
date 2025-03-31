@@ -1,5 +1,6 @@
 ﻿#include "Functions.h"
 #include "Objects.cpp"
+
 int main() {
     srand(time(0));
     setlocale(LC_ALL, "Russian");
@@ -21,7 +22,6 @@ int main() {
     }
 
     Teacher teacher;
-
     for (const auto& eq : equations) {
         for (const auto& student : students) {
             auto solution = student->solveEquation(eq);
@@ -31,6 +31,5 @@ int main() {
 
     teacher.gradeAllSubmissions(students);
     teacher.publishResults();
-
     return 0;
 }
