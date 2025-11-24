@@ -1,0 +1,11 @@
+C:/Users/Анастасия/source/repos/calculator/calculator/build/CMakeFiles/Calculator.dir
+C:/Users/Анастасия/source/repos/calculator/calculator/build/CMakeFiles/funcabs.dir
+C:/Users/Анастасия/source/repos/calculator/calculator/build/CMakeFiles/funccos.dir
+C:/Users/Анастасия/source/repos/calculator/calculator/build/CMakeFiles/funcctg.dir
+C:/Users/Анастасия/source/repos/calculator/calculator/build/CMakeFiles/funcln.dir
+C:/Users/Анастасия/source/repos/calculator/calculator/build/CMakeFiles/funclog.dir
+C:/Users/Анастасия/source/repos/calculator/calculator/build/CMakeFiles/funcsin.dir
+C:/Users/Анастасия/source/repos/calculator/calculator/build/CMakeFiles/funcsqrt.dir
+C:/Users/Анастасия/source/repos/calculator/calculator/build/CMakeFiles/functan.dir
+C:/Users/Анастасия/source/repos/calculator/calculator/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Анастасия/source/repos/calculator/calculator/build/CMakeFiles/ZERO_CHECK.dir
