@@ -36,7 +36,7 @@ Enter expression :
 
 # Создание и сборка проекта
 Удалите папку build (в репозитории, так как требовалось в него добавлять файлы: .dll, .cpp, .h, .vcxproj, .vcxproj.filters, .sln.)
-mkdir build 
+mkdir build
 cd build
 cmake ..
 cmake --build . --config Release
