@@ -42,5 +42,6 @@ cmake ..
 cmake --build . --config Release  
 
 # Запуск приложения
-Release\Calculator.exe
+Calculator.exe (будет находиться в calculator\build\Release)
+
 
