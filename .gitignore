@@ -1,19 +1,23 @@
 
+/*
+
+!*.cpp
+!*.h
+!*.hpp
+!*.vcxproj
+!*.vcxproj.filters
+!*.sln
+!*.dll
+!CMakeLists.txt
+!README.md
 !.gitignore
+
+!plugins/
+!/plugins/**
 !calculator/
+!/calculator/**
 
-!calculator/*.cpp
-!calculator/*.h
-!calculator/*.hpp
-!calculator/*.dll
-!calculator/CMakeLists.txt
-!calculator/README.md
-!calculator/.gitignore
-
-!calculator/plugins/
-!calculator/plugins/*.cpp
-
-# Visual Studio (исключаем всегда)
+# Visual Studio
 .vs/
 *.vcxproj.user
 *.suo
@@ -24,7 +28,7 @@
 *.VC.db
 *.VC.VC.opendb
 
-# Build results (исключаем всегда)
+# Build results
 Debug/
 Release/
 x64/
@@ -36,13 +40,13 @@ x86/
 *.ilk
 *.log
 
-# CMake (исключаем всегда)
+# CMake
 CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 Makefile
 
-# Temporary files (исключаем всегда)
+# Temporary files
 *.tmp
 *.log
 *.tlog
@@ -51,32 +55,9 @@ Makefile
 *.ncb
 *.opensdf
 
-# Misc (исключаем всегда)
+# Misc
 *.lib
 *.exp
 *.manifest
 *.opendb
 *.ipdb
-
-# Папки скомпилированных плагинов (исключаем всегда)
-funcabs/
-funccos/
-funcctg/
-funcln/
-funclog/
-funcsin/
-funcsqrt/
-functan/
-
-# Другие временные папки (исключаем всегда)
-build/
-out/
-bin/
-obj/
-packages/
-TestResults/
-[Tt]emp/
-[Tt]mp/
-_ReSharper*/
-*.orig
-*_backup
