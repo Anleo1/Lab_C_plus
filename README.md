@@ -35,11 +35,11 @@ Enter expression :
 Введите `exit` для выхода из калькулятора.
 
 # Создание и сборка проекта
-Удалите папку build (в репозитории, так как требовалось в него добавлять файлы: .dll, .cpp, .h, .vcxproj, .vcxproj.filters, .sln.)
-mkdir build
-cd build
-cmake ..
-cmake --build . --config Release
+Удалите папку build (в репозитории, так как требовалось в него добавлять файлы: .dll, .cpp, .h, .vcxproj, .vcxproj.filters, .sln.)  
+mkdir build  
+cd build  
+cmake ..  
+cmake --build . --config Release  
 
 # Запуск приложения
 Release\Calculator.exe
