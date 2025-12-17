@@ -1,7 +1,6 @@
 ﻿#include "TestFunctions.hpp"
 #include "locale.h"
 
-// Главная функция
 int main() {
     setlocale(LC_ALL, "Rus");
     try {
